@@ -8,7 +8,7 @@
 
 ![](NTELauncherRe/preview.webp)
 
-[點此下載](https://github.com/owogametools/NTETools/releases/latest/download/NTEGlobalGame.exe) 需放入遊戲根目錄中。
+[點此下載](https://github.com/owogametools/NTEToolsP/releases/latest/download/NTEGlobalGame.exe) 需放入遊戲根目錄中。
 
 本工具會引導使用者對啟動器資源進行優化裁減。只消耗 20 MB RAM，可縮小到工作列。
 
